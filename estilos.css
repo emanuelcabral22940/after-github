@@ -11,3 +11,10 @@ body{
 h1{
     text-decoration: underline yellow;
 }
+
+h2{
+    color: chartreuse;
+}
+.color1{
+    color:cyan;
+}
